@@ -2,13 +2,15 @@
 ---
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working as a Senior Data Scientist in <a href="https://cgnal.com/">CGnal</a>.
-- 🌱 I’m currently learning how to analize Formula 1 data (big Ferrari fan).
-- 👯 I’m looking to collaborate on new ideas (Environment/Sea/Motor Sport related is a plus).
+- 💡 I'm Co-Funder of <a href="https://cgnal.com/">TO-ca$h</a>, where we develop an innovative Treasury Platform.
+- 🌱 I’m learning how to analize Formula 1 data (big Ferrari fan).
+- 👯 I’m looking to collaborate on new ideas (Environment/Sea/Sport related is a plus).
 
 ---
 
 ### When I'm not coding, I'm probably:
 - 🍝 cooking
+- 🏀 playing baskeball
 - :ocean: swimming
 - 📺 watching movies / TV series
 - 🍻 chilling with friends
