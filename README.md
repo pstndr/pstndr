@@ -1,8 +1,8 @@
 ### Hi there 👋
 ---
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working as a Senior Data Scientist in <a href="https://tocash.ai/">CGnal</a>.
-- 💡 I'm Co-Funder of <a href="https://cgnal.com/">TO-ca$h</a>, where we develop an innovative Treasury Platform.
+- 🔭 I’m currently working as a Senior Data Scientist in <a href="https://cgnal.com/">CGnal</a>.
+- 💡 I'm Co-Funder of <a href="https://tocash.ai/">TO-ca$h</a>, where we develop an innovative Treasury Platform.
 - 🌱 I’m learning how to analize Formula 1 data (big Ferrari fan).
 - 👯 I’m looking to collaborate on new ideas (Environment/Sea/Sport related is a plus).
 
