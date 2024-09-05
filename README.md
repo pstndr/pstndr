@@ -10,7 +10,7 @@
 
 ### When I'm not coding, I'm probably:
 - 🍝 cooking
-- 🏀 playing baskeball
+- 🏀 playing basketball
 - :ocean: swimming
 - 📺 watching movies / TV series
 - 🍻 chilling with friends
