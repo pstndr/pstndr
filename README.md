@@ -46,3 +46,18 @@ Feel free to drop in my DM in <a href="https://www.linkedin.com/in/andrea-pastel
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white">
 </div>
+
+---
+
+
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/pstndr?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/pstndr?tab=followers"><img align="right" src="https://img.shields.io/github/followers/pstndr?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pstndr&langs_count=8&theme=onedark" />
+</p>
+
+<a href="https://github.com/pstndr"><img align="left" alt="Andrea's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=pstndr&show_icons=true&count_private=true&theme=onedark" /></a>
+
+<br />
