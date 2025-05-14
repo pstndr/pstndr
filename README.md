@@ -11,12 +11,38 @@
 ### When I'm not coding, I'm probably:
 - 🍝 cooking
 - 🏀 playing basketball
-- :ocean: swimming
 - 📺 watching movies / TV series
 - 🍻 chilling with friends
 - 🚀 planning my next trip
-- :red_car: watching Formula 1
 
 ---
 ### Keep in touch 📫 
 Feel free to drop in my DM in <a href="https://www.linkedin.com/in/andrea-pastelli-8a434b131/">LinkedIn</a> or send me an email @ <a href=mailto:andrea.pastelli@gmail.com>andrea.pastelli@gmail.com</a>
+
+---
+### Data Science
+
+<div>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white">
+</div>
+
+### Software Engineering
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+</div>
+
+### Cloud Architecture
+
+<div>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white">
+</div>
